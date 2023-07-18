@@ -1,4 +1,6 @@
-### Hi there 👋
+[![Profile Banner](https://svg-banners.vercel.app/api?type=origin&text1=Hi,%20I%27m%20Durgesh!%F0%9F%A4%A0&text2=%F0%9F%94%92%20InfoSec%20Enthusiast%20|%20%F0%9F%92%BB%20Jr%20Penetration%20Tester%20|%20%F0%9F%9B%A1%EF%B8%8F%20Hacking%20for%20a%20Secure%20World%20%F0%9F%8C%90&width=1000&height=200)](github.com/darkoid)
+<h3 align="center">This is the place where I hack, break and learn stuff.</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=darkoid" alt="darkoid" /> </p>
 
 <!--
 **darkoid/darkoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+<p align="Left"> <img src="https://github-readme-stats.vercel.app/api?username=akshay090&show_icons=true" alt="akshay090" /> </p>
