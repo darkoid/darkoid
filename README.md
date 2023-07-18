@@ -5,10 +5,23 @@ used a lot o badges from https://github.com/alexandresanlim/Badges4-README.md-Pr
 ## Hi, I'm Durgesh!🤠 <br> InfoSec Enthusiast 🔒 | Jr Penetration Tester 💻 | Hacking for a Secure World 🛡️
 <p>
   <img src="https://komarev.com/ghpvc/?username=darkoid" alt="darkoid" />
-  <a href="https://github.com/darkoid/#Connect%20with$20me:"><img src="https://img.shields.io/badge/with%20me-000000?style=for-the-badge&logo=About.me&label=Connect&message=Contact Me&color=36393f&style=flat-square" alt="Discord"></a>
+  <a href="https://github.com/darkoid/#connect-with-me"><img src="https://img.shields.io/badge/with%20me-000000?style=for-the-badge&logo=About.me&label=Connect&message=With Me&color=36393f&style=flat-square"></a>
 </p>
 
 I'm documenting the things I'm interested in, topics that I'm learning and my projects. And I want to share these things with you. So, please hit the star button or fork any repo that you think is helpful / informative / worth it. It means a lot to me. Thanks. Visit all my public repos [here](https://github.com/darkoid?tab=repositories&q=&type=source&language=&sort=star)
+
+<!---
+<details open>
+<summary><h2> Certifications/Projects/Courses </h2></summary>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darkoid"/>
+  <br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=darkoid&show_icons=true&include_all_commits=true&theme=transparent&rank_icon=github&hide_border=true&custom_title=GitHub%20Stats" alt="Github stats"/> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkoid&layout=compact&theme=transparent&hide_border=true" />
+  <div align="center">
+  <a href="https://github.com/darkoid/darkoid"><img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=darkoid&theme=transparent&hide_border=true&custom_title=Contribution%20Graph" /></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=darkoid" />
+  </div>
+</details>
+--->
 
 #### Tools and Technologies
 
