@@ -10,18 +10,29 @@ used a lot o badges from https://github.com/alexandresanlim/Badges4-README.md-Pr
 
 I'm documenting the things I'm interested in, topics that I'm learning and my projects. And I want to share these things with you. So, please hit the star button or fork any repo that you think is helpful / informative / worth it. It means a lot to me. Thanks. Visit all my public repos [here](https://github.com/darkoid?tab=repositories&q=&type=source&language=&sort=star)
 
-<!---
-<details open>
-<summary><h2> Certifications/Projects/Courses </h2></summary>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darkoid"/>
-  <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=darkoid&show_icons=true&include_all_commits=true&theme=transparent&rank_icon=github&hide_border=true&custom_title=GitHub%20Stats" alt="Github stats"/> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkoid&layout=compact&theme=transparent&hide_border=true" />
-  <div align="center">
-  <a href="https://github.com/darkoid/darkoid"><img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=darkoid&theme=transparent&hide_border=true&custom_title=Contribution%20Graph" /></a>
-  <img src="https://github-profile-trophy.vercel.app/?username=darkoid" />
-  </div>
-</details>
---->
+## Certifications
+  
+1. <a href="https://my.ine.com/certificate/37adc432-8111-44c9-9d23-e18a988ada55">eLearnSecurity Junior Penetration Tester</a><br>
+2. <a href="https://drive.google.com/file/d/1RFdXLVyIn8vRAztPJeTpP15l9nxjRTQa/view?usp=sharing">Passed Certified in Cybersecurity (CC") exam by (ISC)2, Inc.</a>
+
+## Projects
+1. <a href="https://github.com/darkoid/pufin">Powershell Universal File Integrity Nspector</a>
+2. <a href="https://www.youtube.com/playlist?list=PLGTCL-TUye6U4dd6Bo0FearC2kw_ziMus">Splunk Tutorial Videos</a>
+3. <a href="https://github.com/darkoid/ActiveDirectoryLab">Active Directory Lab Setup with Bulk user addition</a>
+4. <a href="https://t.me/eJPTv2_Exam">Telegram eJPTv2 Exam Discussion Group</a>
+5. <a href="https://www.instagram.com/health.myths/">Awareness of Health Tip Myths via Social Media</a>
+6. <a href="https://www.youtube.com/@darkoiddefense/">Youtube channel to discuss CTF walkthroughs, new cybersec concepts, etc.</a>
+6. <a href="https://github.com/darkoid/ActiveDirectoryBasics">Active Directory Basics Terms Blog</a><br>
+7. <a href="https://github.com/darkoid/WebVulnerabilities">Web Vulnerabilities Finding, Analysing and Exploiting (ongoing)</a>
+
+## Courses Completed
+1. TCM Academy PNPT Course - PEH, WPE, LPE, OSINT and EPP (5 Courses)
+2. [REUTERS - Introduction to Digital Journalism](https://reutersdigitaljournalism.com/course_completed_certificate/145099.html?l=en)
+3. zSecurity Learn Ethical Hacking From Scratch
+4. [Cisco Networking Academy - Python Essential 1](https://www.credly.com/badges/a322aa0d-c929-4f1f-a2a7-3cb462e5ae18)
+5. Harvard’s CS50 - Introduction to Computer Science
+6. Autodesk – Fusion 360 in 90 minutes
+7. Tryhackme - Multiple path completed (Offensive Security, Jr Penetration Tester and more path)
 
 #### Tools and Technologies
 
