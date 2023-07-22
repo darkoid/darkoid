@@ -12,18 +12,18 @@ I'm documenting the things I'm interested in, topics that I'm learning and my pr
 
 ## Certifications
   
-1. <a href="https://my.ine.com/certificate/37adc432-8111-44c9-9d23-e18a988ada55">eLearnSecurity Junior Penetration Tester</a><br>
-2. <a href="https://drive.google.com/file/d/1RFdXLVyIn8vRAztPJeTpP15l9nxjRTQa/view?usp=sharing">Passed Certified in Cybersecurity (CC") exam by (ISC)2, Inc.</a>
+- <a href="https://my.ine.com/certificate/37adc432-8111-44c9-9d23-e18a988ada55">eLearnSecurity Junior Penetration Tester</a><br>
+- <a href="https://drive.google.com/file/d/1RFdXLVyIn8vRAztPJeTpP15l9nxjRTQa/view?usp=sharing">Passed Certified in Cybersecurity (CC") exam by (ISC)2, Inc.</a>
 
 ## Projects
-1. <a href="https://github.com/darkoid/pufin">Powershell Universal File Integrity Nspector</a>
-2. <a href="https://www.youtube.com/playlist?list=PLGTCL-TUye6U4dd6Bo0FearC2kw_ziMus">Splunk Tutorial Videos</a>
-3. <a href="https://github.com/darkoid/ActiveDirectoryLab">Active Directory Lab Setup with Bulk user addition</a>
-4. <a href="https://t.me/eJPTv2_Exam">Telegram eJPTv2 Exam Discussion Group</a>
-5. <a href="https://www.instagram.com/health.myths/">Awareness of Health Tip Myths via Social Media</a>
-6. <a href="https://www.youtube.com/@darkoiddefense/">Youtube channel to discuss CTF walkthroughs, new cybersec concepts, etc.</a>
-6. <a href="https://github.com/darkoid/ActiveDirectoryBasics">Active Directory Basics Terms Blog</a><br>
-7. <a href="https://github.com/darkoid/WebVulnerabilities">Web Vulnerabilities Finding, Analysing and Exploiting (ongoing)</a>
+- <a href="https://github.com/darkoid/pufin">Powershell Universal File Integrity Nspector</a> - A ps1 script to demonstrate the I (Integrity) from CIA Triad.
+- <a href="https://www.youtube.com/playlist?list=PLGTCL-TUye6U4dd6Bo0FearC2kw_ziMus">Splunk Tutorial Videos</a> - Basic tutorial on setting up and using splunk application for log analysis.
+- <a href="https://github.com/darkoid/ActiveDirectoryLab">Active Directory (AD) Lab Setup with Bulk user addition</a> - Most fortune 500 companies uses AD. AD serves as a centralized security management solution that houses all network resources. 
+- <a href="https://t.me/eJPTv2_Exam">Telegram eJPTv2 Exam Discussion Group</a> - I passed the certification in < 6 hours on first attempt by helping other with their questions and asking for help during my preparation.
+- <a href="https://www.instagram.com/health.myths/">Awareness of Health Tip Myths via Social Media</a> - Led a group of 6 to get peolpe aware of  myths to fight the COVID virus. The instagram account has > 1k followers and one post has > 16k likes.
+- <a href="https://www.youtube.com/@darkoiddefense/">Youtube channel to discuss CTF walkthroughs, new cybersec concepts, etc.</a> - I started a youtube channel to improve my teachinf skill which has stopped for a while but will start again sooon.
+- <a href="https://github.com/darkoid/ActiveDirectoryBasics">Active Directory Basics Terms Blog</a><br>
+- <a href="https://github.com/darkoid/WebVulnerabilities">Web Vulnerabilities Finding, Analysing and Exploiting (ongoing)</a>
 
 ## Courses Completed
 1. TCM Academy PNPT Course - PEH, WPE, LPE, OSINT and EPP (5 Courses)
