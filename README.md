@@ -17,6 +17,7 @@ I'm documenting the things I'm interested in, topics that I'm learning and my pr
 
 ## Projects
 - <a href="https://github.com/darkoid/pufin">Powershell Universal File Integrity Nspector</a> - A ps1 script to demonstrate the I (Integrity) from CIA Triad.
+- <a href="https://github.com/darkoid/SecurityAuditReportTemplate">Sample Audit Report</a> - This project contains the report I made for the Internal Security Audit on "Botium Toys" as part of GCP certificate course from coursera.
 - <a href="https://www.youtube.com/playlist?list=PLGTCL-TUye6U4dd6Bo0FearC2kw_ziMus">Splunk Tutorial Videos</a> - Basic tutorial on setting up and using splunk application for log analysis.
 - <a href="https://github.com/darkoid/ActiveDirectoryLab">Active Directory (AD) Lab Setup with Bulk user addition</a> - Most fortune 500 companies uses AD. AD serves as a centralized security management solution that houses all network resources. 
 - <a href="https://t.me/eJPTv2_Exam">Telegram eJPTv2 Exam Discussion Group</a> - I passed the certification in < 6 hours on first attempt by helping other with their questions and asking for help during my preparation.
